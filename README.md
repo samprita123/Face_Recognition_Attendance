@@ -15,15 +15,22 @@ This project is a simple face recognition-based attendance system built using Py
 
 
 FaceRecognitionAttendance/
+
 ├── face_recognition/
+
 │   └── faces/                # Add your images here
-│       ├── friend1.jpg
-│       ├── friend2.jpg
-│       └── ...
+       ├── friend1.jpg
+       ├── friend2.jpg
+       └── ...
+
 ├── venv_name/                # Virtual environment
+
 ├── app.py
+
 ├── main.py                   # Flask app
+
 ├── index.html                # HTML for the web interface
+
 ├── 24-05-10.csv              # Example attendance logs
 └── ...
 
@@ -104,4 +111,4 @@ MIT License
 
 ## Author
 
-Your Name - [GitHub](https://github.com/yourusername)
+Your Name - [GitHub](https://github.com/samprita123)
